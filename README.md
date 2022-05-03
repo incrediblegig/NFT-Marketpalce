@@ -1,16 +1,22 @@
 # Nft-MarketPlace
 
-Building a digital marketplace with Next.js, Tailwind, Solidity, Hardhat, Ethers.js, IPFS, and Polygon
+Building a digital marketplace
+
+## Tech stacks
+
+Next.js, Tailwind, Solidity, Hardhat, Ethers.js, IPFS, and Polygon
+
+Web framework - Next.js
 
 Ethereum Layer - Polygon
-
-Web application framework - Next.js
 
 Solidity development environment - Hardhat
 
 File Storage - IPFS
 
 Ethereum Web Client Library - Ethers.js
+
+## Description
 
 When a user puts an item for sale, the ownership of the item will be transferred from the creator to the marketplace.
 
